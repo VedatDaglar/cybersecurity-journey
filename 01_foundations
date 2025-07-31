@@ -1,0 +1,62 @@
+
+# Transferable and Technical Cybersecurity Skills
+
+Bu notlar, Google Cybersecurity kursunun "Transferable and Technical Skills" bölümüne dayanmaktadır.
+
+---
+
+## 🧠 Transferable Skills (Aktarılabilir Beceriler)
+
+### 🗣️ Communication (İletişim)
+- Teknik ve teknik olmayan kişilerle etkili iletişim kurmak.
+- Güvenlik sorunlarını açık şekilde aktarabilmek.
+
+### 🧩 Problem-Solving (Problem Çözme)
+- Saldırı örüntülerini analiz edip çözüm üretmek.
+- Kusursuz çözüm aramak yerine hızlı ve etkili çözüme odaklanmak.
+
+### ⏱️ Time Management (Zaman Yönetimi)
+- Önceliklendirme yaparak kritik güvenlik risklerine hızla müdahale etmek.
+- Dikkati dağılmadan en acil konuya odaklanmak.
+
+### 🌱 Growth Mindset (Gelişim Odaklı Zihin Yapısı)
+- Sürekli öğrenmeye açık olmak.
+- Teknolojiye ayak uydurmak ve öğrenilen bilgileri kariyer boyunca uygulamak.
+
+### 🌍 Diverse Perspectives (Çeşitli Bakış Açıları)
+- Farklı bakış açılarını dinlemek ve ortak çözümler üretmek.
+- Takım içinde saygı ve iş birliğine dayalı kültür oluşturmak.
+
+---
+
+## 🔧 Technical Skills (Teknik Beceriler)
+
+### 💻 Programming Languages (Programlama Dilleri)
+- Otomasyon ve veri analizi için kullanılır.
+- Örn: Log tarama, tehdit tespiti, veri düzenleme.
+
+### 📊 SIEM Tools
+- Olay kayıtlarını analiz eder (örn. Splunk, Wazuh).
+- Anormal girişleri tespit eder, tehditleri analiz eder.
+
+### 🛡️ IDS (Intrusion Detection Systems)
+- İzinsiz girişleri tespit etmek için sistemleri izler.
+- Örn: Snort, Suricata
+
+### 🌐 Threat Landscape Knowledge
+- Yeni tehdit türleri, zararlılar, saldırı yöntemleri hakkında bilgi sahibi olmak.
+- MITRE ATT&CK gibi çerçeveleri takip etmek.
+
+### 🚨 Incident Response
+- Kurumsal olay müdahale prosedürlerini takip etmek.
+- Bir saldırı alarmında olayı incelemek, kök nedeni bulmak ve çözüm üretmek.
+
+---
+
+## 🎯 CompTIA Security+ Bilgisi
+- Google Cybersecurity sertifikası, CompTIA Security+ sınavı için iyi bir temel sunar.
+- Programı tamamlayınca %30 indirim kuponu kazanılır.
+
+---
+
+*Not: Bu doküman bireysel öğrenme ve kariyer hazırlığı amacıyla oluşturulmuştur.*
